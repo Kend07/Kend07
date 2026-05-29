@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kendall Guzman</h1>
 <h3 align="center">A Software Engineer student focused on personal projects</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kend07" alt="kend07" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kend07&label=Profile%20views&color=0e75b6&style=flat" alt="kend07" /> </p>
 
 - 🔭 I’m currently studying in [National Technical University, Costa Rica](https://www.utn.ac.cr/)
 
