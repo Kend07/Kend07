@@ -20,8 +20,8 @@
 
 ## 🚀 Current Project
 
-### 🔗 Vinlup
-https://vinlup.vercel.app/
+### 🔗 binloopcr
+https://binloopcr.com/
 
 ---
 
