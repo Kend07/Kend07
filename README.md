@@ -10,11 +10,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering student at **National Technical University (Costa Rica)**
-- 🌱 Currently learning **C#, TypeScript, CSS, and .NET**
-- 🚀 Currently building **Vinlup**
-- 🔐 Interested in **Web Security & Cybersecurity**
-- 📷 Landscape & Portrait Photographer
-- 🎯 Goal: Become a Full-Stack Software Engineer
+- 🌱 Currently learning **C#, TypeScript, CSS, and .NET Framework**
+- 🚀 Currently building **binloop**
+- 🔐 Interested in **Software and Web Development**
+- 📷 Hobby Photographer
+
 
 ---
 
