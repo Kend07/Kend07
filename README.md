@@ -33,8 +33,11 @@ https://binloopcr.com/
 
 ## Courses Completed
 ISW-0126-Introducción a la Ciencia de Datos
+
 Getting Started with Cisco Packet Tracer
+
 ISW-01-25 Introducción al Internet de las Cosas y Transformación Digital
+
 Exploring Networking with Cisco Packet Tracer
 ---
 ## 🌐 Connect with Me
