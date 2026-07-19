@@ -28,11 +28,16 @@ https://binloopcr.com/
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 
-## 📫 Contact
+## 💻 Languages & Tools
 
-- Email: **kendalltoto@gmail.com**
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,cpp,cs,css,docker,dotnet,figma,git,github,html,java,js,mongodb,mysql,nodejs,react,tailwind,ts,vscode,visualstudio" />
+
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
+
 
 ## Courses Completed
 **ISW-0126-Introducción a la Ciencia de Datos**
@@ -63,13 +68,9 @@ https://binloopcr.com/
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
-## 💻 Languages & Tools
+## 📫 Contact
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,cpp,cs,css,docker,dotnet,figma,git,github,html,java,js,mongodb,mysql,nodejs,react,tailwind,ts,vscode,visualstudio" />
-
-</p>
+- Email: **kendalltoto@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
