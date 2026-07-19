@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kendall Guzman</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | Building Personal Projects</h3>
+<h1 align="center">Hello, I'm Kendall Guzman</h1>
+<h3 align="center">Software Engineering Student | Building Personal Projects</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kend07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
