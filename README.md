@@ -109,6 +109,3 @@ Exploring Networking with Cisco Packet Tracer
 
 ---
 
-## ⚡ Fun Fact
-
-> I enjoy building projects that solve real-world problems while continuously learning new technologies.
