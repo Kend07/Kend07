@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=header"/>
+
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=440&lines=Hello%2C+I%27m+Kendall+Guzman;Building+Web+Apps;Learning+C%23%2C+TypeScript+%26+.NET" />
 </h1>
@@ -14,7 +16,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/kend07/kend07/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=header"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## 👨‍💻 About Me
@@ -52,7 +54,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
-## 🌐 Connect with Me
+## 🌐 Contact Me
+
+<a href="mailto:kendalltoto@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-kendalltoto@gmail.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <p align="center">
 <a href="https://www.linkedin.com/" target="_blank">
@@ -67,14 +73,6 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
 </a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
-
-## 📫 Contact
-
-<a href="mailto:kendalltoto@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-kendalltoto@gmail.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
