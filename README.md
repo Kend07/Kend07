@@ -47,7 +47,7 @@ Exploring Networking with Cisco Packet Tracer
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
 </a>
@@ -65,7 +65,7 @@ Exploring Networking with Cisco Packet Tracer
 
 ## 💻 Languages & Tools
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=azure,cpp,cs,css,docker,dotnet,figma,git,github,html,java,js,mongodb,mysql,nodejs,react,tailwind,ts,vscode,visualstudio" />
 
@@ -97,13 +97,6 @@ Exploring Networking with Cisco Packet Tracer
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kend07&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## 📈 Profile Summary
 
