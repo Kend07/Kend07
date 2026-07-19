@@ -19,11 +19,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **National Technical University (Costa Rica)**
-- 🌱 Currently learning **C#, TypeScript, CSS, and .NET Framework**
-- 🚀 Currently building **binloop**
+- 🎓 Software Engineering student at **National Technical University (Costa Rica)** | Currently learning **C#, TypeScript, CSS, and .NET Framework**
 - 🔐 Interested in **Software and Web Development**
-- 📷 Hobby Photographer
 - 🔗 Working on binloopcr
 https://binloopcr.com/
 
