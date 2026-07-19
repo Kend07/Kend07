@@ -21,10 +21,10 @@
 
 - 🎓 Software Engineering student at **National Technical University (Costa Rica)** | Currently learning **C#, TypeScript, CSS, and .NET Framework**
 - 🔐 Interested in **Software and Web Development**
-- 🔗 Working on binloopcr <a href="https://binloopcr.com/" target="_blank">
+- 🔗 Working on binloopcr
+<a href="https://binloopcr.com/" target="_blank">
 <img src="https://img.shields.io/badge/binloop-VISIT%20SITE-FF1493?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-🔗 binloopcr — [https://binloopcr.com/](https://binloopcr.com/)
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
