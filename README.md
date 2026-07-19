@@ -14,6 +14,8 @@
 - 🚀 Currently building **binloop**
 - 🔐 Interested in **Software and Web Development**
 - 📷 Hobby Photographer
+- 🔗 Working on binloopcr
+https://binloopcr.com/
 
 
 ---
