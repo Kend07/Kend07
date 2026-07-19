@@ -25,14 +25,14 @@
 https://binloopcr.com/
 
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 
 ## 📫 Contact
 
 - Email: **kendalltoto@gmail.com**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## Courses Completed
 ISW-0126-Introducción a la Ciencia de Datos
@@ -43,7 +43,7 @@ ISW-01-25 Introducción al Internet de las Cosas y Transformación Digital
 
 Exploring Networking with Cisco Packet Tracer
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -60,7 +60,7 @@ Exploring Networking with Cisco Packet Tracer
 </a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## 💻 Languages & Tools
 
@@ -70,7 +70,7 @@ Exploring Networking with Cisco Packet Tracer
 
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -78,7 +78,7 @@ Exploring Networking with Cisco Packet Tracer
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kend07&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## 🔥 GitHub Streak
 
@@ -86,7 +86,7 @@ Exploring Networking with Cisco Packet Tracer
 <img src="https://streak-stats.demolab.com?user=kend07&theme=github-dark&hide_border=true"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## 📈 Contribution Graph
 
@@ -94,7 +94,7 @@ Exploring Networking with Cisco Packet Tracer
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kend07&theme=github-dark&hide_border=true"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 
 ## 🏆 GitHub Trophies
@@ -102,7 +102,7 @@ Exploring Networking with Cisco Packet Tracer
 <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kend07&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## 📈 Profile Summary
 
