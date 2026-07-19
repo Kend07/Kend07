@@ -66,13 +66,9 @@ Exploring Networking with Cisco Packet Tracer
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kend07&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kend07&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kend07&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kend07&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -93,10 +89,10 @@ Exploring Networking with Cisco Packet Tracer
 
 ---
 
-## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kend07&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kend07&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
