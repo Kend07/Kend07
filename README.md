@@ -35,13 +35,13 @@ https://binloopcr.com/
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## Courses Completed
-ISW-0126-Introducción a la Ciencia de Datos
+**ISW-0126-Introducción a la Ciencia de Datos
 
 Getting Started with Cisco Packet Tracer
 
 ISW-01-25 Introducción al Internet de las Cosas y Transformación Digital
 
-Exploring Networking with Cisco Packet Tracer
+Exploring Networking with Cisco Packet Tracer**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
