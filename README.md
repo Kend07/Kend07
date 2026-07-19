@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=440&lines=Hello%2C+I%27m+Kendall+Guzman;Building+Web+Apps;Learning+C%23%2C+TypeScript+%26+.NET" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=440&lines=Hello%2C+I%27m+Kendall+Guzman;Building+Web+Apps;Learning+C%23%2C+TypeScript+%26+.NET" />
 </h1>
 <h3 align="center">Software Engineering Student | Building Personal Projects</h3>
 
