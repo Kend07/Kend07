@@ -1,4 +1,5 @@
 <h1 align="center">Hello, I'm Kendall Guzman</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Building+binloop;Learning+C%23%2C+TypeScript+%26+.NET" />
 <h3 align="center">Software Engineering Student | Building Personal Projects</h3>
 
 <p align="center">
