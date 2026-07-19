@@ -20,12 +20,6 @@ https://binloopcr.com/
 
 ---
 
-## 🚀 Current Project
-
-### 🔗 binloopcr
-https://binloopcr.com/
-
----
 
 ## 📫 Contact
 
