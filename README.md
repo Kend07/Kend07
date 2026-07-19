@@ -16,7 +16,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/kend07/kend07/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=header"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## 👨‍💻 About Me
