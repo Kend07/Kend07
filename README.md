@@ -70,7 +70,9 @@ https://binloopcr.com/
 
 ## 📫 Contact
 
-- Email: **kendalltoto@gmail.com**
+<a href="mailto:kendalltoto@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-kendalltoto@gmail.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
