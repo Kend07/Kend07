@@ -15,7 +15,7 @@
   </picture>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1B98E0&height=3&section=footer"/>
 
 ## 👨‍💻 About Me
 
