@@ -32,7 +32,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 
-## 💻 Languages & Tools
+## 💻 Tech Stack
 
 <p align="center">
 
