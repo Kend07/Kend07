@@ -54,7 +54,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,ssms" />
 
 </p>
 
