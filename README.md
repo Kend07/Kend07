@@ -34,11 +34,46 @@
 
 ## 💻 Tech Stack
 
+### 🎨 Frontend
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,azure,cpp,cs,html,css,docker,java,js,mongodb,mysql,nodejs,react,tailwind,ts,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 
 </p>
+
+### ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,java,cs,cpp" />
+
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</p>
+
+### 🛠️ Tools & Version Control
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,docker" />
+
+</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
