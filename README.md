@@ -91,15 +91,11 @@
 
 ## 🌐 Contact Me
 <div align="center">
+
+  
 <a href="mailto:kendalltoto@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-
-<a href="https://www.linkedin.com/in/yourusername/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LINKEDIN-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 
 
 <a href="https://instagram.com/ken.leiva" target="_blank" rel="noopener noreferrer">
