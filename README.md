@@ -107,20 +107,23 @@
 </a>
 
 
-
 <a href="https://github.com/https://github.com/Kend07" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kendall-guzman-942783344" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://www.facebook.com/https://www.facebook.com/kendalljosue.guzman" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://instagram.com/https://www.instagram.com/ken.leiva" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  ****
+
+</div> 
 
 <a href="https://leetcode.com/u/kleiva/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LEETCODE-FACC15?style=for-the-badge&logo=leetcode&logoColor=black" />
