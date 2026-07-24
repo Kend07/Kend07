@@ -2,7 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=50&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi!+I'm+Kendall+Guzman;Building+Web+Apps;Learning+C%23%2C+Typescript+and+Frontend+skills" alt="Typing SVG" /></a>
 </h1>
 
-
 <h3 align="center">Software Engineering Student | Building Personal Projects</h3>
 
 <p align="center">
@@ -17,13 +16,13 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at **National Technical University (Costa Rica)** | Currently learning **C#, TypeScript, CSS, and .NET Framework**
-- 🔐 Interested in **Software and Web Development**
-- 🔗 Working on **binloopcr** 
+* 🎓 Software Engineering student at **National Technical University (Costa Rica)** | Currently learning **C#, TypeScript, CSS, and .NET Framework**
+* 🔐 Interested in **Software and Web Development**
+* 🔗 Working on **binloopcr**
 
 <div align="center">
 <a href="https://binloopcr.com/" target="_blank">
@@ -31,9 +30,7 @@
 </a>
 </div>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## 💻 Tech Stack
 
@@ -77,11 +74,10 @@
 
 </p>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## Courses Completed
+
 **ISW-0126-Introducción a la Ciencia de Datos**
 
 **Getting Started with Cisco Packet Tracer**
@@ -90,21 +86,19 @@
 
 **Exploring Networking with Cisco Packet Tracer**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## 🌐 Contact Me
+
 <div align="center">
 
-  
 <a href="mailto:kendalltoto@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-
 <a href="https://instagram.com/ken.leiva" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/INSTAGRAM-831843?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 
 <a href="https://github.com/https://github.com/Kend07" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -128,16 +122,14 @@
 
 </div> 
 
-
-
-
 ## 📊 GitHub Stats
+
 <p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kend07&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kend07&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## 🔥 GitHub Streak
 
@@ -145,7 +137,7 @@
 <img src="https://streak-stats.demolab.com?user=kend07&theme=github-dark&hide_border=true"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## 📈 Contribution Graph
 
@@ -153,8 +145,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kend07&theme=github-dark&hide_border=true"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## 📈 Profile Summary
 
@@ -163,4 +154,3 @@
 </p>
 
 ---
-
