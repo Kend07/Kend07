@@ -114,7 +114,6 @@
 </a>
 
 
-
 ## 📊 GitHub Stats
 <p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kend07&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
