@@ -92,20 +92,27 @@
 ## 🌐 Contact Me
 
 <a href="mailto:kendalltoto@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-kendalltoto@gmail.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-kendalltoto@gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br>
 
 <a href="https://www.linkedin.com/in/yourusername/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LINKEDIN-Kendall-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-Kendall-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br>
 
 <a href="https://instagram.com/ken.leiva" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/INSTAGRAM-ken.leiva-FF1493?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-ken.leiva-831843?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<br>
+
 <a href="https://leetcode.com/u/kleiva/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LEETCODE-kleiva-FF1493?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEETCODE-kleiva-FACC15?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
 
 
 ## 📊 GitHub Stats
