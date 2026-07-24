@@ -98,7 +98,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/yourusername/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LINKEDIN-Kendall-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br>
