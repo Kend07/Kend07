@@ -119,11 +119,13 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-</div> 
-
 <a href="https://leetcode.com/u/kleiva/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LEETCODE-FACC15?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
+</div> 
+
+
 
 
 ## 📊 GitHub Stats
