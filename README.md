@@ -92,24 +92,21 @@
 ## 🌐 Contact Me
 
 <a href="mailto:kendalltoto@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-kendalltoto@gmail.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-kendalltoto@gmail.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<p align="center">
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+<a href="https://www.linkedin.com/in/yourusername/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LINKEDIN-Kendall-FF1493?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/ken.leiva" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+<a href="https://instagram.com/ken.leiva" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/INSTAGRAM-ken.leiva-FF1493?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/kleiva/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+<a href="https://leetcode.com/u/kleiva/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LEETCODE-kleiva-FF1493?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:FF69B4&height=100&section=footer"/>
 
 ## 📊 GitHub Stats
 <p align="center">
