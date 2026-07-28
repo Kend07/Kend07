@@ -76,7 +76,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
-## Courses Completed
+## 🎓 Courses Completed
 
 **ISW-0126-Introducción a la Ciencia de Datos**
 
@@ -88,9 +88,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
-## Participated Open-source Campaigns
+## 📖 Participated Open-source Campaigns
 
 **GrantFox: Official Campaign**
+
 **GrantFox: Official Campaign | FWC26**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
