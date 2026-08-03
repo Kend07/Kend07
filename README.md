@@ -78,19 +78,16 @@
 
 ## 🎓 Courses Completed
 
-**ISW-0126-Introducción a la Ciencia de Datos**
-
-**Getting Started with Cisco Packet Tracer**
-
-**ISW-01-25 Introducción al Internet de las Cosas y Transformación Digital**
-
-**Exploring Networking with Cisco Packet Tracer**
-
 <p align="center">
   <img src="https://img.shields.io/badge/Introducton to Data Science-CISCO-2ea44f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/binloop-VISIT%20SITE-2ea44f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/binloop-VISIT%20SITE-2ea44f?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/binloop-VISIT%20SITE-2ea44f?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Getting Started with Cisco Packet Trace-CISCO%20SITE-2ea44f?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Introduction to IOT-CISCO-2ea44f?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Exploring Networking with Cisco Packet Tracer-CISCO-2ea44f?style=for-the-badge"/>
+  
+  <img src="https://img.shields.io/badge/Data Science Essentials with Python-CISCO-2ea44f?style=for-the-badge"/>
 </p>
 
 
