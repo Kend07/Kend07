@@ -86,6 +86,14 @@
 
 **Exploring Networking with Cisco Packet Tracer**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Introducton to Data Science-CISCO-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/binloop-VISIT%20SITE-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/binloop-VISIT%20SITE-2ea44f?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/binloop-VISIT%20SITE-2ea44f?style=for-the-badge"/>
+</p>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## 📖 Participated Open-source Campaigns
