@@ -96,7 +96,7 @@
 
 
 
-## 📖 Participated Open-source Campaigns
+## 📖 Contributed Open-source Campaigns
 
 
 <p align="center"> 
