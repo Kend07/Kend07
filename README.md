@@ -16,7 +16,7 @@
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+
 
 ## 👨‍💻 About Me
 
@@ -30,7 +30,7 @@
 </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+
 
 ## 💻 Tech Stack
 
@@ -74,7 +74,7 @@
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+
 
 ## 🎓 Courses Completed
 
@@ -94,7 +94,7 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+
 
 ## 📖 Participated Open-source Campaigns
 
@@ -107,7 +107,7 @@
 </p>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+
 
 
 ## 🌐 Contact Me
@@ -144,7 +144,6 @@
 
 </div> 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## 📊 GitHub Stats
 
@@ -154,7 +153,7 @@
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kend07&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+
 
 ## 🔥 GitHub Streak
 
@@ -162,7 +161,7 @@
 <img src="https://streak-stats.demolab.com?user=kend07&theme=github-dark&hide_border=true"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+
 
 ## 📈 Contribution Graph
 
@@ -170,7 +169,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kend07&theme=github-dark&hide_border=true"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
 
 ## 📈 Profile Summary
 
