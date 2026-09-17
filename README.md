@@ -100,7 +100,7 @@ Currently interested in **Web Development and Open-Source contributions**
 
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/First Official Campaign-1-GrantFox-e8650a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/First Official Campaign-GrantFox-e8650a?style=for-the-badge"/>
 </br>
   <img src="https://img.shields.io/badge/FWC26 Official Campaign-Grantfox-e8650a?style=for-the-badge"/>
 </br>
