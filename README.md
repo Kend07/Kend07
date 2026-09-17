@@ -34,7 +34,7 @@ and interested in **Web Development and Open-Source contributions**
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 
 <p align="center">
 
@@ -42,7 +42,7 @@ and interested in **Web Development and Open-Source contributions**
 
 </p>
 
-### ⚙️ Backend
+###  Backend
 
 <p align="center">
 
@@ -50,7 +50,7 @@ and interested in **Web Development and Open-Source contributions**
 
 </p>
 
-### 🗄️ Databases
+###  Databases
 
 <p align="center">
 
@@ -58,7 +58,7 @@ and interested in **Web Development and Open-Source contributions**
 
 </p>
 
-### 🛠️ Tools & Version Control
+###  Tools & Version Control
 
 <p align="center">
 
@@ -66,7 +66,7 @@ and interested in **Web Development and Open-Source contributions**
 
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 
 <p align="center">
 
@@ -76,7 +76,7 @@ and interested in **Web Development and Open-Source contributions**
 
 
 
-## 🎓 Courses Completed
+##  Courses Completed
 
 <p align="center">
   <img src="https://img.shields.io/badge/Introducton to Data Science-CISCO-2ea44f?style=for-the-badge"/>
