@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 Hello! I am a software engineering student at **National Technical University (Costa Rica)** | Currently learning **C#, TypeScript, CSS, and .NET Framework**
-Currently interested in **Web Development and Open-Source contributions**
+and interested in **Web Development and Open-Source contributions**
 * 🔗 Working on **binloopcr** , a free, interactive web app that connects independent fashion sellers to potential clients (LOCAL, ONLY IN COSTA RICA)
 
 <div align="center">
