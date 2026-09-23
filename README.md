@@ -93,6 +93,9 @@ and interested in **Web Development and Open-Source contributions**
   <img src="https://img.shields.io/badge/Data Science Essentials with Python-CISCO-2ea44f?style=for-the-badge"/>
 </p>
 
+  <img src="https://img.shields.io/badge/Python Basics-CODEDEX-f5bf42?style=for-the-badge"/>
+</p>
+
 
 
 
